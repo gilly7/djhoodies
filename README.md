@@ -1,5 +1,4 @@
 "# djhoodies" 
-# Django-photo-gallery
 
 ### Author : Gilbert Ng'eno
 
@@ -72,7 +71,7 @@ Email : ngenogilbert07@gmail.com​
 
 Skype : ngenogilbert07​
 
-Whatsapp : +254790020740
+Whatsapp : +254728680632
 
 *****
 
